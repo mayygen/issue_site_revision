@@ -7,10 +7,6 @@ body {
 
 }
 
-.mainContainer{
-  display: flex;
-  flex-direction: column;
-}
 a:link {
   color: #4747b3;
 }
